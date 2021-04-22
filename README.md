@@ -1,7 +1,8 @@
 # EE-CRS-Lab1
 Opgave:
 Een proces heeft de volgende transfertfunctie.
-![](/text-ghosting.jpg)  
+
+![](TF.png)  
 
                                          
 Bepaal:
